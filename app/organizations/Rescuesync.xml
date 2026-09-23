@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="ASCII"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1">
+  <customUserInfoDefinitions/>
+  <users>
+    <user userName="april.sanchez">
+      <firstName>April</firstName>
+      <lastName>Sanchez</lastName>
+      <title>Mrs</title>
+      <jobTitle>Compensation specialist</jobTitle>
+      <manager>helen.kelly</manager>
+      <personalData/>
+      <professionalData>
+        <email>april.sanchez@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="helen.kelly">
+      <firstName>Helen</firstName>
+      <lastName>Kelly</lastName>
+      <title>Mrs</title>
+      <jobTitle>Human resource manager</jobTitle>
+      <manager>william.jobs</manager>
+      <personalData/>
+      <professionalData>
+        <email>helen.kelly@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="jan.fisher">
+      <firstName>Jan</firstName>
+      <lastName>Fisher</lastName>
+      <title>Mr</title>
+      <jobTitle>Infrastucture specialist</jobTitle>
+      <manager>favio.riviera</manager>
+      <personalData/>
+      <professionalData>
+        <email>jan.fisher@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="isabel.bleasdale">
+      <firstName>Isabel</firstName>
+      <lastName>Bleasdale</lastName>
+      <title>Mrs</title>
+      <jobTitle>Product marketing manager</jobTitle>
+      <manager>favio.riviera</manager>
+      <personalData/>
+      <professionalData>
+        <email>isabel.bleasdale@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="favio.riviera">
+      <firstName>Favio</firstName>
+      <lastName>Riviera</lastName>
+      <title>Mr</title>
+      <jobTitle>Vice President of Marketing</jobTitle>
+      <manager>william.jobs</manager>
+      <personalData/>
+      <professionalData>
+        <email>favio.riviera@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="marc.marseau">
+      <firstName>Marc</firstName>
+      <lastName>Marseau</lastName>
+      <title>Mr</title>
+      <jobTitle>Engineer</jobTitle>
+      <manager>michael.morrison</manager>
+      <personalData/>
+      <professionalData>
+        <email>marc.marseau@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="joseph.hovell">
+      <firstName>Joseph</firstName>
+      <lastName>Hovell</lastName>
+      <title>Mr</title>
+      <jobTitle>Engineer</jobTitle>
+      <manager>michael.morrison</manager>
+      <personalData/>
+      <professionalData>
+        <email>joseph.hovell@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="daniela.angelo">
+      <firstName>Daniela</firstName>
+      <lastName>Angelo</lastName>
+      <title>Mrs</title>
+      <jobTitle>Vice President of Sales</jobTitle>
+      <manager>william.jobs</manager>
+      <personalData/>
+      <professionalData>
+        <email>daniela.angelo@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="anthony.nichols">
+      <firstName>Anthony</firstName>
+      <lastName>Nichols</lastName>
+      <title>Mr</title>
+      <jobTitle>Account manager</jobTitle>
+      <manager>daniela.angelo</manager>
+      <personalData/>
+      <professionalData>
+        <email>anthony.nichols@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+    <user userName="giovanna.almeida">
+      <firstName>Giovanna</firstName>
+      <lastName>Almeida</lastName>
+      <title>Mrs</title>
+      <jobTitle>Account manager</jobTitle>
+      <manager>daniela.angelo</manager>
+      <personalData/>
+      <professionalData>
+        <email>giovanna.almeida@acme.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+    </user>
+  </users>
+  <roles>
+    <role name="operador_municipal">
+      <displayName>Operador Municipal </displayName>
+    </role>
+    <role name="coordinador_regional">
+      <displayName>Coordinador Regional </displayName>
+    </role>
+    <role name="representante_ong">
+      <displayName>Representante ONG</displayName>
+    </role>
+    <role name="auditor_directivo">
+      <displayName>Auditor/Directivo </displayName>
+    </role>
+  </roles>
+  <groups>
+    <group name="municipios">
+      <displayName>Municipios</displayName>
+    </group>
+    <group name="ongs">
+      <displayName>ONGs</displayName>
+    </group>
+    <group name="coordinacion">
+      <displayName>Coordinacion</displayName>
+    </group>
+    <group name="auditoria">
+      <displayName>Auditoria</displayName>
+    </group>
+  </groups>
+  <memberships>
+    <membership>
+      <userName>april.sanchez</userName>
+      <roleName>representante_ong</roleName>
+      <groupName>ongs</groupName>
+    </membership>
+    <membership>
+      <userName>helen.kelly</userName>
+      <roleName>representante_ong</roleName>
+      <groupName>ongs</groupName>
+    </membership>
+    <membership>
+      <userName>jan.fisher</userName>
+      <roleName>representante_ong</roleName>
+      <groupName>ongs</groupName>
+    </membership>
+    <membership>
+      <userName>isabel.bleasdale</userName>
+      <roleName>operador_municipal</roleName>
+      <groupName>municipios</groupName>
+    </membership>
+    <membership>
+      <userName>favio.riviera</userName>
+      <roleName>auditor_directivo</roleName>
+      <groupName>auditoria</groupName>
+    </membership>
+    <membership>
+      <userName>marc.marseau</userName>
+      <roleName>representante_ong</roleName>
+      <groupName>ongs</groupName>
+    </membership>
+    <membership>
+      <userName>joseph.hovell</userName>
+      <roleName>operador_municipal</roleName>
+      <groupName>municipios</groupName>
+    </membership>
+    <membership>
+      <userName>daniela.angelo</userName>
+      <roleName>coordinador_regional</roleName>
+      <groupName>coordinacion</groupName>
+    </membership>
+    <membership>
+      <userName>giovanna.almeida</userName>
+      <roleName>operador_municipal</roleName>
+      <groupName>municipios</groupName>
+    </membership>
+    <membership>
+      <userName>anthony.nichols</userName>
+      <roleName>operador_municipal</roleName>
+      <groupName>municipios</groupName>
+    </membership>
+  </memberships>
+</organization:Organization>
