@@ -81,12 +81,6 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>1212-bdm-model</artifactId>
-      <version>${project.version}</version>
-      <scope>provided</scope>
-    </dependency>
-    <dependency>
       <groupId>org.bonitasoft.actorfilter</groupId>
       <artifactId>bonita-actorfilter-initiator</artifactId>
       <version>1.0.0</version>
@@ -104,6 +98,11 @@
       <artifactId>bonita-connector-email</artifactId>
       <version>1.5.0</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.bonitasoft.connectors</groupId>
+      <artifactId>bonita-connector-rest</artifactId>
+      <version>1.5.1</version>
     </dependency>
   </dependencies>
   <build>
