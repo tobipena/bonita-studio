@@ -262,6 +262,12 @@
       <enabled>true</enabled>
       <password encrypted="false">bpm</password>
     </user>
+    <user userName="rescuesync">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
   </users>
   <roles>
     <role name="operador_municipal">
@@ -276,6 +282,9 @@
     <role name="auditor_directivo">
       <displayName>Auditor/Directivo </displayName>
     </role>
+    <role name="tecnico">
+      <displayName>tecnico</displayName>
+    </role>
   </roles>
   <groups>
     <group name="municipios">
@@ -289,6 +298,9 @@
     </group>
     <group name="auditoria">
       <displayName>Auditoria</displayName>
+    </group>
+    <group name="tecnico">
+      <displayName>tecnico</displayName>
     </group>
   </groups>
   <memberships>
@@ -341,6 +353,11 @@
       <userName>anthony.nichols</userName>
       <roleName>operador_municipal</roleName>
       <groupName>municipios</groupName>
+    </membership>
+    <membership>
+      <userName>rescuesync</userName>
+      <roleName>tecnico</roleName>
+      <groupName>tecnico</groupName>
     </membership>
   </memberships>
 </organization:Organization>
